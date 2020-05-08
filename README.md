@@ -12,4 +12,4 @@ This project is fully **open source** and **open hardware**. All source code and
 
 My main inspirations for this project are [Ben Eater](https://eater.net/) and [Grant Searle](http://www.searle.wales/) for their work in electronics and computer designs.
 
-Icon in header made by <a href="https://www.flaticon.com/authors/surang" title="surang">surang</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+Icon in header made by <a href="https://www.flaticon.com/authors/surang" title="surang">surang</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
